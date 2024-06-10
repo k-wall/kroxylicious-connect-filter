@@ -15,7 +15,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <kroxylicious.version>0.5.0</kroxylicious.version>
+        <kroxylicious.version>0.6.0</kroxylicious.version>
         <kafka.version>3.6.1</kafka.version>
         <jackson.version>2.16.1</jackson.version>
     </properties>
